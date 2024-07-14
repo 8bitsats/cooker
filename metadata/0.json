@@ -1,0 +1,37 @@
+{
+	"name": "NFT #0",
+	"symbol": "asd",
+	"description": "NFT #0 - Generated and deployed on LaunchMyNFT.",
+	"attributes": [
+		{
+			"trait_type": "Accessory",
+			"value": "Tear Tattoo Red"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Black"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Round Aqua"
+		},
+		{
+			"trait_type": "Left Eye",
+			"value": "Swirl Purple"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Grin Pink"
+		},
+		{
+			"trait_type": "Right Eye",
+			"value": "Swirl Pink"
+		},
+		{
+			"trait_type": "Rarity Rank",
+			"value": 48,
+			"display_type": "number",
+			"max_value": 100
+		}
+	]
+}
